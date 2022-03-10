@@ -1,0 +1,7 @@
+#img-bg {
+    background-image: url('https://dasartes.com.br/dasartes.com.br/wp-content/uploads/2021/03/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg');
+    min-height: 795px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
